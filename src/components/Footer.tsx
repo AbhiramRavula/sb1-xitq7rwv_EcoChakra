@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
-                <span className="text-gray-300">123 Green Street, Eco City</span>
+                <span className="text-gray-300">123 , Eco City, HYD,TG, India</span>
               </li>
             </ul>
           </div>
